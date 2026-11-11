@@ -270,5 +270,21 @@
   "subject": "植物用の活力剤・肥料のボトル5本（マイプランツ、リキダス、HB-101の小と大、メネデール）。冬型の肥料の記事用",
   "theme": "冬型",
   "source": "2026-11-10-winter-fertilizer"
+ },
+ {
+  "id": "ig035",
+  "file": "instagram/035.jpg",
+  "url": "https://raw.githubusercontent.com/chokobey-afk/appiate-media/main/instagram/035.jpg",
+  "subject": "植物用の活力剤・肥料のボトル6本（マイプランツのタブレットとミスト、HB-101の小と大、リキダス、メネデール）。冬型の肥料の記事用",
+  "theme": "冬型",
+  "source": "2026-11-11-fertilizer-bottles"
+ },
+ {
+  "id": "ig036",
+  "file": "instagram/036.jpg",
+  "url": "https://raw.githubusercontent.com/chokobey-afk/appiate-media/main/instagram/036.jpg",
+  "subject": "顆粒HB-101の袋の裏面（使い方・約3か月効果が続く）。冬型の肥料の記事用",
+  "theme": "冬型",
+  "source": "2026-11-11-hb101-granule"
  }
 ]
